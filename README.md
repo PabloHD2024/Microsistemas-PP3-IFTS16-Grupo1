@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-commerce Microservicios
 
 Sistema de e-commerce con arquitectura de microservicios + API Gateway.
@@ -22,3 +23,6 @@ npm install
 cp .env.example .env
 # Editar .env con credenciales reales
 npm run dev
+=======
+# Microsistemas-PP3-IFTS16-Grupo1
+>>>>>>> 37e35665ba686ba6ef0370ac24bd0aa9a169ab49
